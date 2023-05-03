@@ -1,0 +1,27 @@
+{
+  "name": "training-node",
+  "version": "1.0.0",
+  "description": "Ejercicios para practicar con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelalcaide/training-node.git"
+  },
+  "keywords": [
+    "entrenamiento",
+    "practica",
+    "node"
+  ],
+  "author": "israel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israelalcaide/training-node/issues"
+  },
+  "homepage": "https://github.com/israelalcaide/training-node#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
